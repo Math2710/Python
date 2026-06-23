@@ -8,6 +8,6 @@ calculo3 = a ** b * c
 calculo4 = (a + b) / c 
 
 print(f"({a} + {b}) * {c} = {calculo1}")
-print(f"({a} * {b}) * {c} = {calculo2}")
-print(f"{a} eleavdo a {b} * {c} = {calculo3}")
+print(f"({a} * {b}) + {c} = {calculo2}")
+print(f"({a} eleavdo a {b}) * {c} = {calculo3}")
 print(f"({a} + {b}) divido por {c} = {calculo4}")
