@@ -1,5 +1,5 @@
-inicial =  int(input("DIgite um inicial:"))
-final = int(input("DIgite um final:"))
+inicial =  int(input("Digite um inicial: "))
+final = int(input("Digite um final: "))
 for x in range(inicial, final, -1):
     if x % 3 == 0:
         print(f"Múltiplo de 3: {x}")
